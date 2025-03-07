@@ -2,3 +2,4 @@
 datashare
 *.tar.gz
 chroma_features/
+chroma_features_test/
