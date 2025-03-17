@@ -3,3 +3,5 @@ datashare
 *.tar.gz
 chroma_features/
 chroma_features_test/
+chroma_features_denoised/
+chroma_features_denoised_test/
